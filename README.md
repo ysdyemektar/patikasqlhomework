@@ -1,2 +1,2 @@
 # patikasqlhomework
-patika sql modul all homework
+basic sql queries
